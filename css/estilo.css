@@ -1,32 +1,12 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-/****************HEADER*************/
 #topo {
-    background-color:BurlyWood;    
+    background-color: blue;
 }
-
-#logo {
-    background-color: black;
-    background-image: url(../images/logo.jpg);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    width: 150px;
-    height: 150px;
-}
-
-
-
-
-/*************NAV*****************************/
 #menu {
-    background-color: blueviolet;
+    background-color: violet;
 }
 .destaques {
-    background-color: coral
+    background-color: coral;
 }
 #rodape {
-    background-color: brown;
+    background-color: darkkhaki;
 }
